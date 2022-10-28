@@ -1,3 +1,6 @@
+# Ignore content built with CMake
+build/
+
 # Prerequisites
 *.d
 
